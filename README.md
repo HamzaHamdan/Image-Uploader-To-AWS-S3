@@ -100,4 +100,4 @@ Finally, add new environment variables to your heroku app to accomodate the acce
 2. AWS_ACCESS_KEY
 ```
 
-![heroku-app-env-var.JPG](images/heroku-app-env-var.JPG.jpg?raw=true)
+![heroku-app-env-var](images/heroku-app-env-var.JPG?raw=true)
