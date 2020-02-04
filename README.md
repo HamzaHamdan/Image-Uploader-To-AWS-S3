@@ -94,9 +94,10 @@ This procedure describes how to set up Amazon Web Service S3 bucket and use it i
 </CORSConfiguration>
 ```
 
-Finally, add new environment variables to your heroku app to hold the below:
+Finally, add new environment variables to your heroku app to accomodate the access_id and access_key values collected from screenshot iam-add-user-6.JPG:
 ```
-1. AWS_S3_ACCESS_ID
-2. AWS_S3_ACCESS_KEY
-3. AWS_S3_BUCKET_NAME
+1. AWS_ACCESS_ID
+2. AWS_ACCESS_KEY
 ```
+
+![heroku-app-env-var.JPG](images/heroku-app-env-var.JPG.jpg?raw=true)
