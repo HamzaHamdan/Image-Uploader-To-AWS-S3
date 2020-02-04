@@ -10,31 +10,31 @@ This procedure describes how to set up Amazon Web Service S3 bucket and use it i
 
 ![bucket](images/bucket.jpg?raw=true)
 
-![create-bucket-1](images/create-bucket-1.jpg?raw=true)
+![create-bucket-1](images/create-bucket-1.JPG?raw=true)
 
-![create-bucket-2](images/create-bucket-2.jpg?raw=true)
+![create-bucket-2](images/create-bucket-2.JPG?raw=true)
 
-![create-bucket-3](images/create-bucket-3.jpg?raw=true)
+![create-bucket-3](images/create-bucket-3.JPG?raw=true)
 
-![create-bucket-4](images/create-bucket-4.jpg?raw=true)
+![create-bucket-4](images/create-bucket-4.JPG?raw=true)
 
-![iam](images/iam.jpg?raw=true)
+![iam](images/iam.JPG?raw=true)
 
 ![iam-add-user-1](images/iam-add-user-1.JPG?raw=true)
 
-![iam-add-user-2](images/iam-add-user-2.jpg?raw=true)
+![iam-add-user-2](images/iam-add-user-2.JPG?raw=true)
 
-![iam-add-user-3](images/iam-add-user-3.jpg?raw=true)
+![iam-add-user-3](images/iam-add-user-3.JPG?raw=true)
 
-![iam-add-user-4](images/iam-add-user-4.jpg?raw=true)
+![iam-add-user-4](images/iam-add-user-4.JPG?raw=true)
 
-![iam-add-user-5](images/iam-add-user-5.jpg?raw=true)
+![iam-add-user-5](images/iam-add-user-5.JPG?raw=true)
 
-![iam-add-user-6](images/iam-add-user-6.jpg?raw=true)
+![iam-add-user-6](images/iam-add-user-6.JPG?raw=true)
 
 ![add-policy-1](images/add-policy-1.jpg?raw=true)
 
-![add-policy2](images/add-policy-2.jpg?raw=true)
+![add-policy2](images/add-policy-2.JPG?raw=true)
 
 ```
 {
