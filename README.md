@@ -34,7 +34,7 @@ This procedure describes how to set up Amazon Web Service S3 bucket and use it i
 
 ![add-policy-1](images/add-policy-1.jpg?raw=true)
 
-![add-policy2](images/add-policy-2.JPG?raw=true)
+![add-policy2](images/add-policy-2.jpg?raw=true)
 
 ```
 {
@@ -52,7 +52,7 @@ This procedure describes how to set up Amazon Web Service S3 bucket and use it i
 
 ![add-policy3](images/add-policy-3.jpg?raw=true)
 
-![bucket-policy](images/bucket-policy.jpg?raw=true)
+![bucket-policy](images/bucket-policy.JPG?raw=true)
 
 ```
 {
@@ -78,7 +78,7 @@ This procedure describes how to set up Amazon Web Service S3 bucket and use it i
 }
 ```
 
-![cors-config](images/cors-config.jpg?raw=true)
+![cors-config](images/cors-config.JPG?raw=true)
 
 ```
 <?xml version="1.0" encoding="UTF-8"?>
